@@ -15,7 +15,7 @@ This project analyzes the relationship between wildfires and power outages in Ca
 
 ### Datasets
 
-#### Primary Dataset
+#### ✅ Primary Dataset
 
 **Purdue University Power Outage Dataset (2000-2016)**
 
@@ -23,14 +23,25 @@ This project analyzes the relationship between wildfires and power outages in Ca
 - Kaggle: https://www.kaggle.com/datasets/autunno/15-years-of-power-outages
 - Coverage: Major U.S. power outages (≥50,000 customers or ≥300 MW loss)
 - Features: Duration, customers affected, location, cause, weather, economic data
+- Downloaded: `PowerOutages.xlsx` (645 KB)
 
-#### Supplementary Datasets
+#### ✅ Supplementary Datasets
 
 **California Wildfire Datasets**
 
-1. California Wildfires (2013-2020): https://www.kaggle.com/datasets/ananthu017/california-wildfire-incidents-20132020
-2. USA Wildfire Data (2000-2022): https://www.kaggle.com/datasets/avkashchauhan/california-wildfire-dataset-from-2000-2021
-3. 1.88M US Wildfires: https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires
+1. **California Wildfires (2000-2022)**: https://www.kaggle.com/datasets/avkashchauhan/california-wildfire-dataset-from-2000-2021
+   - Downloaded: `california_wildfire_2000_2022.csv` (54 MB, 1.1M records)
+
+2. **California Fire Incidents (2013-2020)**: https://www.kaggle.com/datasets/ananthu017/california-wildfire-incidents-20132020
+   - Downloaded: `california_wildfire_incidents_2013_2020.csv` (948 KB)
+
+3. **1.88M US Wildfires**: https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires
+   - Downloaded: `us_wildfires_1.88m.sqlite` (759 MB)
+
+**Additional Wildfire Data**
+
+- `ca_daily_fire_2000_2021-v2.csv` - Enhanced with FRP (fire radiative power) data
+- USA-wide datasets for broader context
 
 ### Project Structure
 
@@ -88,24 +99,6 @@ DataMiningProject/
 - Clustering: Silhouette Score, Davies-Bouldin Index
 - Regression: MAE, RMSE, R²
 - Association Rules: Support, Confidence, Lift
-
-### Downloaded Datasets
-
-✅ **Power Outage Data:**
-
-- `PowerOutages.xlsx` (645 KB) - Purdue dataset, 2000-2016
-- Coverage: Major U.S. power outages (≥50,000 customers or ≥300 MW loss)
-
-✅ **Wildfire Data:**
-
-- `california_wildfire_2000_2022.csv` (54 MB) - Primary wildfire dataset, 1.1M records
-- `california_wildfire_incidents_2013_2020.csv` (948 KB) - Fire incidents, 948K records
-- `us_wildfires_1.88m.sqlite` (759 MB) - SQLite database with 1.88M US wildfire records
-
-✅ **Supplementary:**
-
-- `ca_daily_fire_2000_2021-v2.csv` - Enhanced with FRP (fire radiative power) data
-- USA-wide datasets for broader context
 
 ### References
 
