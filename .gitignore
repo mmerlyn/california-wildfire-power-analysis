@@ -1,6 +1,5 @@
 # Data files (too large for GitHub)
 data/raw/
-data/processed/
 
 # Python
 __pycache__/
@@ -34,10 +33,7 @@ build/
 .Trashes
 Thumbs.db
 
-# Output files
-outputs/figures/*.png
-outputs/figures/*.jpg
-outputs/figures/*.pdf
+# Large model files (can be regenerated)
 outputs/models/*.pkl
 outputs/models/*.joblib
 outputs/models/*.h5

@@ -1,0 +1,301 @@
+Event Description,Year,Date Event Began,Time Event Began,Date of Restoration,Time of Restoration,Respondent,Geographic Areas,NERC Region,Demand Loss (MW),Number of Customers Affected,Tags
+Electrical System Islanding,2014,2014-06-09,11:07 AM,2014-06-09,11:30 AM,Peak Reliability,"Alberta, Canada",WECC,Unknown,Unknown,islanding
+Electrical System Islanding,2014,2014-06-03,3:32 PM,2014-06-03,3:59 PM,Peak Reliability,"Alberta, Canada",WECC,338,,islanding
+Electrical System Separation (Islanding),2014,2014-05-26,12:31 PM,2014-05-26,1:18 PM,Peak Reliability,"British Columbia & Alberta, Canada",WECC,Unknown,Unknown,islanding
+Physical Attack - Vandalism,2014,2014-05-23,3:00 PM,2014-05-25,7:00 PM,Duke Energy Progress,North Carolina,SERC,Unknown,Unknown,"vandalism, physical"
+Public Appeal to Reduce Electricity Usage - Wild Fires,2014,2014-05-16,10:43 AM,2014-05-16,9:00 PM,San Diego Gas & Electric Co,"San Diego & Orange Counties, California",WECC,"3,900","1,400,000","wild fire, public appeal"
+Public Appeal to Reduce Electricity Usage - Wild Fires,2014,2014-05-15,10:43 AM,,Unknown,San Diego Gas & Electric Co,"San Diego & Orange Counties, California",WECC,"3,300","1,400,000","wild fire, public appeal"
+Public Appeal to Reduce Electricity Usage - Wild Fires,2014,2014-05-14,3:34 PM,,Unknown,San Diego Gas & Electric Company,"San Diego & Orange Counties, California",WECC,,426,"wild fire, public appeal"
+Physical Attack,2014,2014-05-08,8:39 AM,2014-05-08,8:40 AM,"CSolar IV South, LLC","Imperial Valley, California",WECC,Unknown,Unknown,"vandalism, physical"
+Electrical System Separation (Islanding),2014,2014-04-27,9:15 AM,,Unknown,Peak Reliability,"Alberta, Canada",WECC,9750,"4,000,000",islanding
+Electrical System Separation (Islanding),2014,2014-04-24,3:02 PM,2014-04-24,5:13 PM,Peak Reliability,"Alberta, Canada",WECC,Unknown,Unknown,islanding
+Physical Attack - Vandalism,2014,2014-04-08,1:00 PM,2014-04-08,1:01 PM,"Western Area Power Administration, Sierra Nevada Region","Davis, California",WECC,Unknown,Unknown,"vandalism, physical"
+Severe Weather - High Winds,2014,2014-03-12,7:35 PM,2014-03-13,12:00 PM,Duke Energy Carolinas,North Carolina,SERC,250,"61,377","severe weather, wind"
+Severe Weather - Winter Storm,2014,2014-03-07,3:30 AM,2014-03-07,9:00 PM,Duke Energy Carolinas,"Triad, North Carolina",SERC,1500,"370,900","severe weather, winter storm"
+Severe Weather - Snow/Ice,2014,2014-02-12,12:10 PM,2014-02-15,3:20 PM,Duke Energy Progress,North Carolina,SERC,Unknown,"200,000","severe weather, winter storm"
+Severe Weather - Snow/Ice,2014,2014-02-12,11:03 AM,2014-02-15,8:40 AM,South Carolina Electric and Gas,South Carolina,SERC,700,"120,124","severe weather, winter storm"
+Fuel Supply Emergency - Natural Gas,2014,2014-02-06,1:00 PM,2014-02-06,10:00 PM,California ISO,California,WECC,"4,000",Unknown,"fuel supply emergency, natural gas"
+Fuel Supply Emergency - Natural Gas,2014,2014-02-06,2:15 PM,2014-02-06,7:39 PM,Southern California Edison,California,WECC,611,Unknown,"fuel supply emergency, natural gas"
+Fuel Supply Emergency - Natural Gas,2014,2014-02-06,1:05 PM,2014-02-06,7:15 PM,Pacific Gas & Electric Co,Northern California,WECC,160,Unknown,"fuel supply emergency, natural gas"
+Severe Weather - Snow/Ice,2014,2014-02-05,7:35 AM,2014-02-07,4:03 AM,PPL Electric Utilities Corp,"Lancaster Region, Pennsylvania",RFC,Unknown,"62,159","severe weather, winter storm"
+Voltage Reduction; Public Appeal; Load Shed 100+MW due to Severe Weather - Cold,2014,2014-01-08,6:00 AM,2014-01-08,9:00 AM,South Carolina Electric and Gas,South Carolina,SERC,"4,545","677,858","severe weather, cold"
+Voltage Reduction; Public Appeal; Load Shed 100+MW due to Severe Weather - Cold,2014,2014-01-07,6:00 PM,2014-01-07,11:00 PM,South Carolina Electric and Gas,South Carolina,SERC,"4,853","677,858","severe weather, cold"
+Public Appeal due to Severe Weather - Cold,2014,2014-01-07,4:15 PM,2014-01-08,1:20 PM,Duke Energy Progress,North Carolina,SERC,Unknown,Unknown,"severe weather, cold"
+Voltage Reduction; Public Appeal due to Severe Weather - Cold,2014,2014-01-07,7:58 AM,2014-01-07,11:00 AM,Duke Energy Progress,North Carolina,SERC,"14,435",Unknown,"severe weather, cold, public appeal"
+Fuel Supply Emergency due to Severe Weather - Cold,2014,2014-01-07,9:30 AM,2014-01-08,9:30 AM,Duke Energy Carolinas,"Piedmont North Carolina, Piedmont South Carolina",SERC,Unknown,Unknown,"severe weather, cold"
+Severe Weather - Wind Storm,2013,2013-11-21,7:45 PM,2013-11-22,3:20 AM,Pacific Gas & Electric Co,Northern California,WECC,150,"89,500","severe weather, wind"
+Electrical System Separation (Islanding),2013,2013-11-12,2:04 PM,2013-11-12,2:05 PM,Pacific Gas & Electric Co,"Valle, California",WECC,55,"48,400",islanding
+Electrical System Separation (Islanding),2013,2013-10-21,5:18 AM,2013-10-21,5:33 AM,Pacific Gas & Electric Co,Location Unknown,WECC,115,433,islanding
+Physical Attack,2013,2013-10-19,2:32 PM,2013-10-19,10:00 PM,Pacific Gas & Electric Co,California,WECC,Unknown,Unknown,"vandalism, physical"
+Cyber Event with Potential to Cause Impact,2013,2013-10-16,11:15 AM,2013-10-16,6:00 PM,Duke Energy Progress,"Roxboro Plant, North Carolina",SERC,0,0,"vandalism, cyber"
+Physcial Attack; Sabotage,2013,2013-09-29,12:00 AM,2013-09-29,1:00 AM,Entergy Systems Incorporated,Cabot Arkansas,SERC,Unknown,Unknown,"vandalism, physical"
+Physcial Attack; Vandalism,2013,2013-08-23,7:30 AM,2013-08-23,7:31 AM,Delmarva Power & Light Company,"New Castle, Delaware",RFC,Unknown,,"vandalism, physical"
+Physcial Attack; Vandalism,2013,2013-08-22,12:55 PM,2013-08-22,2:45 PM,Delmarva Power & Light Company,"New Castle, Delaware",RFC,Unknown,Unknown,"vandalism, physical"
+Physcial Attack; Sabotage,2013,2013-08-21,2:00 PM,2013-08-21,2:01 PM,Entergy Arkansas Inc,"Cabot, Arkansas",SERC,,,"vandalism, physical"
+Severe Weather - Lightning Strike,2013,2013-08-19,7:06 PM,2013-08-20,6:02 AM,Southern California Edison Co,Central California,WECC,685,"124,000","severe weather, thunderstorm"
+Physical Attack; Vandalism,2013,2013-07-22,7:00 AM,2013-07-22,3:00 PM,Terra-Gen Operating Company,California,WECC,Unknown,Unknown,"vandalism, physical"
+Equipment Failure,2013,2013-07-18,11:45 PM,2013-07-19,10:05 AM,San Diego Gas & Electric Co,Southern Orange County California,WECC,200,"123,000",equipment failure
+Physical Attack; Vandalism,2013,2013-07-05,12:05 AM,2013-07-05,1:51 AM,Pacific Gas & Electric Co,California,WECC,Unknown,"2,500","vandalism, physical"
+Suspected Physical Attack,2013,2013-07-03,9:34 AM,2013-07-03,10:52 AM,Sacramento Municipal Utility District,Sacramento California,WECC,0,0,"vandalism, physical"
+Load Shed 100+MW,2013,2013-07-02,2:20 PM,2013-07-05,3:30 PM,Western Electricity Coordinating Council,"Alberta, Canada",WECC,200,Unknown,load shedding
+Equipment Failure,2013,2013-06-28,6:02 PM,2013-06-28,8:46 PM,Southern California Edison Co,"Los Angeles and Orange Counties, California",WECC,240,"65,255",equipment failure
+Physical Attack; Vandalism,2013,2013-06-28,5:14 PM,2013-06-28,5:15 PM,Delmarva Power & Light Company,New Castle Delaware,RFC,Unknown,Unknown,"vandalism, physical"
+Severe Weather - Fog,2013,2013-06-23,9:20 PM,2013-06-24,1:35 AM,Pacific Gas & Electric Co,Central Coast California,WECC,Unknown,"148,000","severe weather, fog"
+Physical Attack; Vandalism,2013,2013-06-21,11:14 PM,2013-06-21,11:15 PM,Delmarva Power & Light Company,New Castle Delaware,RFC,Unknown,Unknown,"vandalism, physical"
+Electrical System Separation (Islanding),2013,2013-06-19,7:57 PM,2013-06-19,8:09 PM,Western Electricity Coordinating Council,"Alberta, Canada",WECC,Unknown,Unknown,islanding
+Severe Weather - Thunderstorms,2013,2013-06-13,5:45 PM,2013-06-14,6:30 PM,Duke Energy Progress,Central and Eastern North Carolina,SERC,Unknown,"53,000","severe weather, thunderstorm"
+Severe Weather - Thunderstorms,2013,2013-06-13,1:17 PM,2013-06-14,5:35 PM,Duke Energy Carolinas,Western Piedmont North Carolina,SERC,"1,000","175,000","severe weather, thunderstorm"
+Electrical System Separation (Islanding),2013,2013-06-03,12:50 PM,2013-06-03,1:36 PM,WECC RC Vancouver,"Alberta, Canada",WECC,Unknown,Unknown,islanding
+Vandalism,2013,2013-05-17,8:35 AM,2013-05-17,8:36 AM,Delmarva Power & Light Company,"Newcastle, Delaware",RFC,Unknown,Unknown,vandalism
+Fuel Supply Emergency - Hydro,2013,2013-05-13,12:52 PM,,Ongoing,California Department of Water Resources,Central California,WECC,176,Unknown,"fuel supply emergency, hydro"
+Electrical System Separation (Islanding),2013,2013-05-09,1:21 PM,2013-05-09,4:21 PM,WECC,"Alberta, Canada; Washington State",WECC,Unknown,Unknown,islanding
+Vandalism,2013,2013-04-25,4:00 PM,2013-04-26,10:55 AM,City and County of San Francisco,"Sunol, California",WECC,0,0,vandalism
+Electrical System Separation (Islanding),2013,2013-04-23,12:49 AM,2013-04-23,4:04 AM,Pacific Gas & Electric Co,"South of Humboldt, California",WECC,80,1,islanding
+"Loss of Part of a High Voltage Substation, Physical Attack",2013,2013-04-16,1:47 AM,2013-04-18,3:25 PM,Pacific Gas & Electric Co,California,WECC,,0,vandalism
+Transmission System Interruption,2013,2013-03-03,6:39 AM,2013-03-03,10:29 AM,Pacific Gas & Electric Co,"Merced County, California",WECC,300,"58,850",transmission interruption
+Electrical System Separation (Islanding),2013,2013-02-19,4:01 PM,2013-02-20,12:55 PM,Pacific Gas & Electric Co.,"Stockton, California",WECC,"13,850","6,810",islanding
+Distribution Interruption,2013,2013-01-17,8:35 PM,2013-01-17,9:20 PM,North Carolina Eastern M P A,"Elizabeth City, North Carolina",SERC,40,"12,000",distribution interruption
+Transmission Interruption,2012,2012-12-31,2:21 PM,2012-12-31,4:30 PM,City of Washington - (NC),North Carolina,SERC,40,"12,000",transmission interruption
+Severe Weather - Thunderstorm,2012,2012-12-26,2:50 PM,2012-12-26,7:40 PM,Town of Stantonsburg - (NC),"Stantonsburg, North Carolina",SERC,3,"1,200","severe weather, thunderstorm"
+Load Shed,2012,2012-12-06,9:18 PM,2012-12-06,9:31 PM,California Department of Water Resources,"Greater San Jose, California",WECC,390,Unknown,load shedding
+Severe Weather - Winter Storm,2012,2012-12-02,5:20 AM,2012-12-04,9:00 AM,Pacific Gas & Electric Co,Northern California,WECC,250,"125,000","severe weather, winter storm"
+Electrical System Separation (Islanding),2012,2012-10-14,10:36 AM,2012-10-14,10:50 AM,Pacific Gas & Electric Co,Northern California,WECC,3,"2,035",islanding
+Suspected Physical Attack,2012,2012-10-05,5:30 PM,2012-10-05,5:50 PM,Western Area Power Authority - Sierra Nevada Region,"Greater Sacramento, California",WECC,,,"vandalism, physical"
+Electrical System Separation (Islanding),2012,2012-09-11,1:00 PM,2012-09-11,1:58 PM,WECC - Loveland,"Alberta, Canada",WECC,0,0,islanding
+Fuel Supply Deficiency (Water),2012,2012-09-06,4:45 AM,,Ongoing,California Department of Water Resources,"Oroville, California",WECC,,,"fuel supply emergency, hydro"
+Electrical System Separation (Islanding),2012,2012-09-05,10:56 AM,2012-09-05,11:27 AM,WECC Reliability Coordinator,"Alberta, Canada",WECC,0,0,islanding
+Electrical System Separation (Islanding),2012,2012-08-04,3:55 AM,2012-08-04,4:21 AM,Pacific Gas & Electric Co,"Temblor Substation in McKittrick, California",WECC,5,127,islanding
+Energy Deficiency Alert,2012,2012-07-09,12:15 PM,2012-07-09,4:14 PM,WECC RC Vancouver,"Alberta, Canada",WECC,9896,Unknown,energy deficiency alert
+Fuel Supply Deficiency (Water),2012,2012-07-07,4:00 AM,2012-07-10,4:00 AM,California Department of Water Resources,CAISO California,WECC,Unknown,0,"fuel supply emergency, hydro"
+Operational Failure; Storm Damage,2012,2012-07-01,4:47 PM,2012-07-01,11:00 PM,North Carolina Municipal Power Agency #1,"Tarboro, North Carolina",SERC,48,"6,100","equipment failure, severe weather, storm"
+Severe Weather,2012,2012-07-01,5:45 PM,2012-07-01,10:15 PM,"Progress Energy, Carolinas","Northern, Central and Eastern North Carolina",SERC,Unknown,"69,106",severe weather
+Severe Weather - Thunderstorms,2012,2012-06-30,10:30 PM,2012-07-02,8:11 AM,"Southern Maryland Electric Cooperative, Inc.","Calvert, Charles, St. Mary's, Prince Georges Counties Maryland",RFC,354,"60,000","severe weather, thunderstorm"
+Physical Attack,2012,2012-06-29,10:45 AM,2012-06-29,10:45 AM,Delmarva Power & Light Company,"New Castle, Delaware",RFC,0,0,"vandalism, physical"
+Fuel Supply Deficiency (Water),2012,2012-06-19,5:30 AM,2012-06-21,5:30 AM,California Department of Water Resources,CAISO Territory California,WECC,UNK,UNK,"fuel supply emergency, hydro"
+Vandalism,2012,2012-06-02,7:30 AM,2012-06-02,11:35 AM,Pacific Gas and Electric Company,"San Francisco, California",WECC,,,vandalism
+Suspected Physical Attack,2012,2012-04-17,6:11 AM,2012-04-17,5:48 PM,San Diego Gas & Electric Company,"San Diego County, California",WECC,0,0,"vandalism, physical"
+Suspected Physical Attack,2012,2012-04-04,3:32 PM,2012-04-06,3:30 PM,Western Area Power Authority - Sierra Nevada Region (WASN),"WAPA-SNR Regional Office, California",WECC,,,"vandalism, physical"
+Suspected Physical Attack,2012,2012-03-16,4:00 PM,2012-03-16,4:00 PM,Delmarva Power & Light Company,"New Castle, Delaware",RFC,0,0,"vandalism, physical"
+Electrical System Separation (Islanding),2012,2012-02-28,2:59 AM,2012-02-28,6:12 AM,Pacific Gas and Electric,"Sacramento, California",WECC,1,1,islanding
+Suspected Physical Attack,2012,2012-02-13,7:02 AM,2012-02-13,4:25 PM,Progress Energy Carolinas,"Asheville, North Carolina",SERC,,,"vandalism, physical"
+Severe Weather,2011,2011-12-01,12:45 AM,2011-12-07,9:00 PM,Southern California Edison (SCE),Southern California,WECC,UNK,"91,690",severe weather
+Severe Weather,2011,2011-12-01,3:29 AM,2011-12-02,1:05 PM,Pacific Gas and Electric,Northern California,WECC,300,"100,000",severe weather
+Severe Weather,2011,2011-11-30,4:56 PM,2011-12-02,10:00 AM,Los Angeles Department of Water and Power,"City of Los Angeles, California",WECC,UNK,"150,000",severe weather
+Vandalism,2011,2011-11-13,11:30 AM,2011-11-13,12:00 PM,ISO New England / obo Public Service of New Hampshire,"Cate Road, Deerfield, New Hampshire",NPCC,0,0,vandalism
+Severe Weather,2011,2011-10-29,12:57 PM,2011-11-03,11:00 PM,PPL Electric Utilities,"Harrisburg, Lehigh Valley, Lancaster Region Pennsylvania",RFC,UNK,"146,721",severe weather
+Vandalism,2011,2011-09-20,12:55 PM,2011-09-20,5:00 PM,City of Tacoma (TPWR),"Lacamas Substaion, Washington",WECC,,,vandalism
+Vandalism,2011,2011-09-13,11:43 AM,2011-09-14,4:00 PM,City of Tacoma (TPWR),"Lacamas Substation, Roy, Washington",WECC,,,vandalism
+Transmission/Distribution Interruption; Load Shed; Generation Inadequacy,2011,2011-09-08,3:28 PM,2011-09-10,3:30 PM,WECC Reliability Coordinator,Arizona; California,WECC,"7,000","2,000,000","transmission interruption, distribution interruption"
+Suspected Physical Attack,2011,2011-08-28,8:55 PM,2011-08-28,11:39 PM,PacifiCorp,"Calapooya Substation, Oregon",WECC,0,0,"vandalism, physical"
+Severe Weather,2011,2011-08-27,2:57 AM,2011-08-29,11:30 PM,Progress Energy Carolinas,Eastern North Carolina,SERC,UNK,"285,465",severe weather
+Severe Weather,2011,2011-08-27,10:33 AM,2011-08-29,2:00 PM,Dominion Virginia Power,North Carolina; Virginia,SERC,UNK,"1,000,000",severe weather
+Severe Weather,2011,2011-08-27,7:00 PM,2011-08-29,1:31 PM,North Carolina Eastern Municipal Power Agency,Eastern North Carolina,SERC,200,"136,000",severe weather
+Distribution System Interruption,2011,2011-08-27,2:00 AM,2011-08-27,5:15 AM,Town of Stantonsburg JRO,Wilson County North Carolina,SERC,2,"1,200",distribution interruption
+Suspected Physical Attack,2011,2011-07-12,8:20 PM,2011-07-12,9:30 PM,Gen On,California,WECC,UNK,UNK,"vandalism, physical"
+Vandalism,2011,2011-07-01,8:00 AM,2011-07-01,8:01 AM,ISO New England,"CONVEX Local Control Center, Connecticut",NPCC,0,0,vandalism
+Severe Thunderstorms,2011,2011-06-18,5:00 PM,2011-06-18,9:33 PM,Duke Energy Carolinas,North Carolina; South Carolina,SERC,300,"70,000","severe weather, thunderstorm"
+Severe Thunderstorms,2011,2011-06-15,7:17 PM,2011-06-16,1:45 AM,Duke Energy,"Piedmont, North Carolina",SERC,300,"70,135","severe weather, thunderstorm"
+Suspected Physical Attack,2011,2011-06-09,2:15 PM,2011-06-09,2:15 PM,Southern California Edison (SCE),"San Antonio Dam Area, Los Angeles County, California",WECC,0,0,"vandalism, physical"
+Electrical System Separation (Islanding),2011,2011-06-05,8:02 PM,2011-06-05,8:55 PM,Pacific Gas and Electric,"Melones, California",WECC,10,"5,314",islanding
+Vandalism,2011,2011-06-04,1:17 AM,2011-06-04,3:25 AM,Pacific Gas and Electric,"Midway, California",WECC,UNK,420,vandalism
+Severe Weather,2011,2011-06-02,11:45 PM,2011-06-04,4:00 PM,South Carolina Electric and Gas,"Greater Columbia, South Carolina",SERC,0,"50,465",severe weather
+Physical Attack,2011,2011-05-24,9:00 AM,2011-05-25,9:10 AM,Edison Mission Generation (Fisk Station),"Chicago, Illinois",RFC,0,0,"vandalism, physical"
+Severe Weather,2011,2011-05-11,12:15 AM,2011-05-11,5:20 PM,Duke Energy Carolinas,"Charlotte, North Carolina",SERC,300,"71,000",severe weather
+Severe Weather,2011,2011-04-16,2:16 PM,2011-04-17,4:30 PM,Progress Energy Carolinas Inc,Central and Eastern North Carolina,SERC,UNK,"220,000",severe weather
+Severe Weather,2011,2011-04-05,2:00 AM,2011-04-07,11:00 PM,Duke Energy Carolinas,"North Carolina, South Carolina",SERC,"1,200","256,000",severe weather
+Transmission Level Outage,2011,2011-03-27,1:27 PM,2011-03-27,5:00 PM,Pacific Gas and Electric,"Sonoma and Central Valley, California",WECC,295,"165,000",transmission interruption
+Major Storm,2011,2011-03-21,12:35 PM,2011-03-21,2:45 PM,Southern California Edison Company (SCE),Southern California,WECC,150,"54,332","severe weather, storm"
+Major Storm,2011,2011-03-20,9:44 AM,2011-03-21,10:00 AM,Los Angeles Department of Water and Power,"Los Angeles, California",WECC,UNK,"79,000","severe weather, storm"
+Major Storm,2011,2011-03-19,11:56 PM,2011-03-24,7:10 PM,Pacific Gas and Electric,Northern and Central California,WECC,91,"128,000","severe weather, storm"
+Generation Inadequacy/Load Shed,2011,2011-03-11,7:02 AM,2011-03-11,9:15 AM,Pacific Gas and Electric,"Humboldt and Eureka, California",WECC,15,"6,800",load shedding
+Winter Storm,2011,2011-02-25,8:00 AM,2011-02-28,5:30 PM,Pacific Gas and Electric,Northern and Central California,WECC,91,"80,000","severe weather, winter storm"
+Suspected Cyber Attack,2011,2011-02-17,1:00 PM,2011-02-23,4:53 PM,City of Roseville (Roseville Electric),"Roseville, California",WECC,0,0,"vandalism, cyber"
+Major Storm,2011,2011-02-17,1:25 AM,2011-02-19,10:13 AM,Pacific Gas and Electric,Northern and Central California,WECC,91,"80,000","severe weather, storm"
+Fuel Supply Deficiency (Natural Gas),2011,2011-02-03,3:00 PM,2011-02-04,12:00 PM,San Diego Gas and Electric Company,"San Diego area, California",WECC,,UNK,"fuel supply emergency, natural gas"
+Suspected Telecommunications Attack,2011,2011-01-26,9:25 AM,2011-01-27,5:00 PM,NV Energy,"Carson City, Nevada",WECC,0,0,"vandalism, cyber"
+Severe Weather,2010,2010-12-26,8:15 a.m.,2010-12-26,4:15 PM,Progress Energy Carolinas,Carolina,SERC,,"42,000",severe weather
+Transmission Equipment/Firm System Load,2010,2010-12-14,7:36 a.m.,2010-12-15,9:00 AM,California Department of Water Resources,Southern California,WECC,464,,"transmission interruption, load shedding"
+Electrical System Separation - Islanding,2010,2010-12-14,7:20 a.m.,2010-12-14,7:25 AM,Pacific Gas and Electric,California,WECC,9,"6,635",islanding
+Electrical System Separation - Islanding,2010,2010-12-03,9:32 p.m.,2010-12-04,2:00 AM,Pacific Gas and Electric,California,WECC,22,"7,077",islanding
+Electrical System Separation - Islanding,2010,2010-11-23,2:01 p.m.,2010-11-23,6:12 PM,Pacific Gas and Electric,Northern California,WECC,22,"7,077",islanding
+Winter Storm,2010,2010-11-21,1:39 a.m.,2010-11-24,4:46 PM,Pacific Gas and Electric,Northern and Central California,WECC,75,"60,000","severe weather, winter storm"
+Electrical System Separation - Islanding,2010,2010-11-06,3:53 p.m.,2010-11-06,6:08 PM,Pacific Gas and Electric,Northern California,WECC,20,4,islanding
+Firm System Load Loss,2010,2010-10-31,10:26 p.m.,2010-11-01,1:45 AM,California Department of Water Resources,"Bakersfield, California",WECC,500,,load shedding
+Electrical System Separation-Islanding,2010,2010-10-27,5:16 p.m.,2010-10-27,5:27 PM,Pacific Gas and Electric,Northern California,WECC,16,"2,674",islanding
+Rain and High Winds,2010,2010-10-05,5:45 a.m.,2010-10-07,6:00a.,Los Angeles Department of Water and Power,"City of Los Angeles, California",WECC,,"73,514","severe weather, wind, rain"
+Interruptible Load Shed,2010,2010-09-27,3:15 p.m.,2010-09-27,6:12 PM,Southern California Edison Company,Central and Southern California,WECC,595,,load shedding
+Firm Load Shed,2010,2010-09-22,6:12 a.m.,2010-09-22,11:00 PM,California Department of Water Resources,"Bakersfield, California",WECC,526,,load shedding
+Electrical System Separation (Islanding),2010,2010-09-01,10:20 a.m.,2010-09-01,12:44 PM,Pacific Gas and Electric,"Pittsburg (Bay Area), California",WECC,31,"15,000",islanding
+Fuel Supply Deficiency (Hydro),2010,2010-08-02,12:00 p.m.,2010-08-02,11:00 PM,California Department of Waters Resources,Central California,WECC,,,"fuel supply emergency, hydro"
+"Shed Interruptible Load, Wildfire",2010,2010-07-29,6:39 p.m.,2010-07-29,7:26 PM,Southern California Edison Company,Southern California,WECC,522,,"load shedding, wild fire"
+"Shed Interruptible Load, Wildfire",2010,2010-07-29,6:39 p.m.,2010-07-29,7:26 PM,California Independent System Operator,Southern California,WECC,522,,"load shedding, wild fire"
+Electrical System Separation,2010,2010-06-25,11:36 p.m.,2010-06-26,1:38 AM,Pacific Gas and Electric,Northern California,WECC,,,islanding
+Severe Weather,2010,2010-06-23,5:00 p.m.,2010-06-25,1:40 PM,Commonwealth Edison,"Chicago, IL",RFC,,"300,000",severe weather
+Severe Weather,2010,2010-06-18,4:00 p.m.,2010-06-20,1:00 PM,Commonwealth Edison,"Chicago, IL",RFC,,"400,000",severe weather
+Electric System Separation,2010,2010-06-06,4:45 a.m.,2010-06-06,5:35 AM,Pacific Gas and Electric,Northern California,WECC,3,"2,650",islanding
+Breakers Tripped,2010,2010-05-18,8:15 a.m.,2010-05-18,10:46 PM,California Department of Water Resources,Central California,WECC,318,,breaker trip
+Firm System Load Shed,2010,2010-02-19,8:30 p.m.,2010-02-20,4:01 AM,California Department of Water Resources,"San Joaquin Field Division/Bakersfield, CA",WECC,"1,000",,load shedding
+Winter Storm,2010,2010-02-06,2:30 a.m.,2010-02-07,7:00 AM,Dominion,"Virginia, North Carolina",SERC,600,"104,736","severe weather, winter storm"
+Winter Storm,2010,2010-02-05,6:48 p.m.,2010-02-07,5:00 PM,Duke Energy Carolinas,North and South Carolina,SERC,500,"74,000","severe weather, winter storm"
+Severe Storm,2010,2010-01-20,1:00 p.m.,2010-01-24,6:10 PM,Los Angeles Department of Water and Power,"City of Los Angeles, California",WECC,,"147,223","severe weather, storm"
+Severe Storm,2010,2010-01-18,11:30 a.m.,2010-01-28,8:00 AM,Pacific Gas and Electric Company,Northern and Central California,WECC,290,"1,700,000","severe weather, storm"
+Severe Weather,2009,2009-12-18,10:55 p.m.,2009-12-19,11:15 p.m.,Progress Energy Carolinas Inc,Western North Carolina,SERC,,"47,000",severe weather
+Load Shed/Made Public Appeals,2009,2009-12-08,6:34 a.m.,2009-12-08,12:00 p.m.,California Independent System Operator,California,WECC,,,"load shedding, public appeal"
+Forced Outage Equipment Failure,2009,2009-12-07,10:00 p.m.,2009-12-08,4:00 a.m.,California Department of Water Resources,California,WECC,400,,equipment failure
+Switching Failure,2009,2009-11-18,6:15 a.m.,2009-11-18,10:00 a.m.,California Dept of Water Resources,"Central Valley, CA",WECC,630,,equipment failure
+Tropical Storm Ida,2009,2009-11-12,6:45 p.m.,2009-11-14,4:25 a.m.,Dominion VirginiaPower/Dominion North Carolina Power,"Southeastern Virginia, Northeastern North Carolina",SERC,400,"335,000","severe weather, hurricane/tropical storm"
+High Winds and Rain,2009,2009-10-13,4:00 p.m.,2009-10-13,10:30 p.m.,Pacific Gas and Electric,Northern California,WECC,350,"859,554","severe weather, wind, rain"
+Transmission System Interruption,2009,2009-10-09,6:30 p.m.,2009-10-09,7:10 p.m.,California Department of Water Resources,"Central Valley, CA (Bakersfield, CA)",WECC,180,,transmission interruption
+Made Public Appeals,2009,2009-08-31,10:31 a.m.,2009-08-31,12:00 a.m.,Los Angeles Department of Water and Power,"City of Los Angeles, California",WECC,,,public appeal
+Unit Tripped,2009,2009-07-21,5:34 a.m.,2009-07-21,8:43 a.m.,Crockett Cogeneration,"San Francisco Bay Area, California",WECC,136,1,generator trip
+Electrical System Separation,2009,2009-06-05,1:38 p.m.,2009-06-05,8:18 p.m.,Pacific Gas and Electric,East of Fresno California,WECC,1,70,islanding
+Fuel Supply Deficiency,2009,2009-04-23,12:00 a.m.,,Ongoing,"State of California, Department of Water Resources",Restricted Hydro Electric Capability,WECC,-,-,fuel supply emergency
+Substation Load Interruption,2009,2009-04-23,5:54 p.m.,2009-04-23,7:58 p.m.,Southern California Edison Co,"Communities of Elsinore, Hemet, Moreno Valley, Perris, San Jacinto and Temecula in the southeastern area of Riverside County in California",WECC,512,"280,000",load shedding
+Unit Shut Down,2009,2009-03-08,10:16 p.m.,2009-03-08,11:45 p.m.,Crockett Cogeneration,"San Francisco Bay Area, California",WECC,150,-,unknown
+Ice/Snow Storm,2009,2009-03-01,8:54 p.m.,2009-03-03,4:06 p.m.,Duke Energy Carolinas,Duke Energy Carolinas Balance Authority,SERC,"1,000","180,000","severe weather, winter storm"
+High Winds,2009,2009-01-07,5:00 p.m.,2009-01-07,8:05 p.m.,Duke Energy Carolinas,Piedmont of North and South Carolina,SERC,300,"70,000","severe weather, wind"
+Load Shedding,2008,2008-12-26,11:40 a.m.,2008-12-26,3:34 p.m.,Sacramento Municipal Utility District,"Orangevale Area of Sacramento, California",WECC,110,"50,000",load shedding
+Electrical System Separation,2008,2008-12-19,1:02 a.m.,2008-12-19,6:17 a.m.,Pacific Gas and Electric Company,"East of Oroville, California",WECC,1,638,islanding
+Declared Stage 1 Electric Emergency/Made Public Appeal,2008,2008-12-13,3:30 p.m.,2008-12-21,9:17 a.m.,Pacific Gas and Electric Company,Humboldt Area of California,WECC,5,0,public appeal
+Load Shedding,2008,2008-11-07,11:15 a.m.,2008-11-07,11:54 a.m.,California ISO,Southern California,WECC,430,"400,000",load shedding
+Load Shedding,2008,2008-11-07,11:13 a.m.,2008-11-07,11:54 a.m.,Southern California Edison,Goleta and Santa Barbara Areas of Southern California,WECC,250,"140,000",load shedding
+Electrical System Separation,2008,2008-09-30,2:02 p.m.,2008-09-30,2:05 p.m.,Pacific Gas and Electric Company,"Plumas County, California",WECC,30,"10,000",islanding
+Tropical Storm Hanna,2008,2008-09-06,2:15 p.m.,2008-09-06,4:06 p.m.,Dominion-Virginia Power,North East North Carolina and Virginia,SERC,220,"64,463","severe weather, hurricane/tropical storm"
+Tropical Storm Hanna,2008,2008-09-06,7:45 a.m.,2008-09-06,10:30 a.m.,Progress Energy Carolinas,Eastern North Carolina,SERC,,"57,000","severe weather, hurricane/tropical storm"
+Hurricane Dolly,2008,2008-07-23,5:56 a.m.,2008-07-31,4:00 a.m.,American Electric Power,"Port Isabel, Harlingen, Weslaco, Pharr, San Benito, Mission, McAllen, Edinburg, Texas",TRE,703,"211,266","severe weather, hurricane/tropical storm"
+Storm,2008,2008-07-21,12:49 a.m.,2008-07-22,6:00 p.m.,MidAmercian Energy Company,"Sioux City, Carroll, Des Moines, Iowa City, and Davenport Iowa, Rock Island, Moline, and Surrounding Area of Illinois",MRO,170,"185,000","severe weather, storm"
+Unit Tripped,2008,2008-07-10,2:22 p.m.,2008-07-10,5:21 p.m.,Crockett Cogeneration,"San Francisco Bay Area, California",WECC,240,-,generator trip
+Fuel Supply Deficiency,2008,2008-07-02,4:00 p.m.,,Ongoing,"State of California, Department of Water Resources",Restricted Hydroelectric Capability,WECC,-,-,fuel supply emergency
+Wild Land Fire,2008,2008-07-02,7:16 p.m.,2008-07-02,11:28 p.m.,California ISO,"Santa Barbara County, California, near Goleta",WECC,208,"200,000",wild fire
+Brush Fire/Lines Loss/Transmission Emergency Declared,2008,2008-07-02,7:36 p.m.,2008-07-03,1:10 a.m.,Southern California Edison,Goleta and Santa Barbara Areas of Southern California,WECC,119,"37,784",wild fire
+Unit Tripped,2008,2008-07-01,7:31 a.m.,2008-07-01,12:00 p.m.,Crockett Cogeneration,"San Francisco Bay Area, California",WECC,160,-,generator trip
+Electrical System Separation/Severe Lightning Storms,2008,2008-06-21,3:09 p.m.,2008-06-21,6:53 p.m.,Pacific Gas and Electric Company,"Near Rogers Flat, California",WECC,3,477,"severe weather, thunderstorm, islanding"
+Severe Storm,2008,2008-05-12,12:01 a.m.,2008-05-14,12:00 a.m.,Atlantic City Electric,"Cape May, Cumberland, Gloucester, Salem, Camden, Atlantic, Burliington  Counties, New Jersey",RFC,55,"135,000","severe weather, storm"
+Load Shedding,2008,2008-05-08,10:21 a.m.,2008-05-08,12:56 a.m.,California ISO,California,WECC,483,0,load shedding
+Windstorm,2008,2008-03-08,2:14 p.m.,2008-03-08,9:59 p.m.,Dominion-Virginia Power,Virginia and Eastern Part of North Carolina,SERC,210,"141,130","severe weather, wind"
+Thunderstorms,2008,2008-03-04,9:30 p.m.,2008-03-04,10:45 p.m.,Duke Energy Carolinas,North and South Carolina,SERC,300,"55,267","severe weather, thunderstorm"
+Fuel Supply Deficiency,2008,2008-02-25,8:00 a.m.,2008-03-12,8:00 a.m.,Owensboro Municpal Utilities,Restricted Coal Capability,RFC,,0,fuel supply emergency
+Electrical System Separation,2008,2008-02-15,3:06 p.m.,2008-02-15,7:36 p.m.,Pacific Gas and Electric Company,"Antioch, California",WECC,10,"10,008",islanding
+High Winds,2008,2008-02-10,6:02 p.m.,2008-02-11,4:00 a.m.,Duke Energy Carolinas,"Greenboro, North Carolina and I-40 Corridor",SERC,300,"50,718","severe weather, wind"
+Electrical System Separation,2008,2008-02-09,11:59 a.m.,2008-02-09,3:33 p.m.,Pacific Gas and Electric Company,"Near Arnold, California",WECC,0,0,islanding
+Equipment Faulted,2008,2008-02-02,3:58 a.m.,2008-02-02,4:27 p.m.,Crockett Cogeneration,"San Francisco Bay Area, California",WECC,,-,equipment failure
+Equipment Faulted,2008,2008-02-01,6:00 a.m.,2008-02-01,7:49 a.m.,Crockett Cogeneration,"San Francisco Bay Area, California",WECC,,-,equipment failure
+Exciter Faulted,2008,2008-01-29,5:00 a.m.,2008-01-29,12:17 p.m.,Crockett Cogeneration,"San Francisco Bay Area, California",WECC,,-,equipment failure
+Winter Storm,2008,2008-01-04,4:00 a.m.,2008-01-14,5:00 p.m.,Pacific Gas and Electric Company,Northern California,WECC,500,"2,606,931","severe weather, winter storm"
+Tropical Storm,2007,2007-11-03,6:00 p.m.,2007-11-04,6:00 a.m.,ISO New England,"Eastern Massachusetts, Rhode Island, Cape Cod",NPCC,100,"62,843","severe weather, hurricane/tropical storm"
+Brush Fire/Load Shedding,2007,2007-10-26,6:44 a.m.,2007-10-26,10:46 a.m.,Southern California Edison Company,Southern Califonia,WECC,280,"20,345","wild fire, load shedding"
+Load Shedding,2007,2007-10-26,6:44 a.m.,2007-10-26,10:43 a.m.,City of Riverside,"Riverside, California",WECC,240,"104,000",load shedding
+Brush Fire/Load Shedding,2007,2007-10-22,2:06 p.m.,2007-10-22,2:43 p.m.,San Diego Gas and Electric Company,"San Diego County, California",WECC,199,"68,780","wild fire, load shedding"
+Brush Fire/Load Shedding,2007,2007-10-22,2:05 p.m.,2007-10-22,2:22 p.m.,California Independent System Operator,Southern California,WECC,700,"300,000","wild fire, load shedding"
+Brush Fire/Load Shedding/Implemented Emergency Alert,2007,2007-10-22,2:01 p.m.,2007-10-22,2:22 p.m.,Southern California Edison Company,Southern California,WECC,451,"90,323","wild fire, load shedding"
+High Temperatures/Made Public Appeals,2007,2007-09-04,8:30 a.m.,2007-09-04,3:30 p.m.,San Diego Gas and Electric Company,"San Diego County, Southern Orange County, California",WECC,,,"severe weather, heat, public appeal"
+High Temperatures/Made Public Appeals,2007,2007-09-03,12:30 p.m.,2007-09-03,5:30 p.m.,San Diego Gas and Electric Company,"San Diego County, Southern Orange County, California",WECC,,,"severe weather, heat, public appeal"
+Declared Energy Emergency Alert 1/Heat wave,2007,2007-08-31,12:45 p.m.,2007-08-31,8:00 p.m.,California Independent System Operator,CAISO Controlled Grid,WECC,,,"severe weather, heat"
+Made Public Appeal,2007,2007-08-29,4:00 p.m.,2007-08-30,6:00 p.m.,California Independent System Operator,CAISO Controlled Grid,WECC,,,public appeal
+Shed Load,2007,2007-08-29,1:53 p.m.,2007-08-29,2:57 p.m.,Modesto Irrigation District,Modesto California and the Surrounding Areas,WECC,180,"26,000",load shedding
+Severe Weather,2007,2007-08-16,9:30 p.m.,2007-08-17,10:49 p.m.,Dominion Virginia Power,Virginia and Eastern North Carolina - Primarily in Central Virginia,SERC,200,"93,300",severe weather
+Made Public Appeal,2007,2007-08-10,12:20 p.m.,2007-08-10,9:00 p.m.,"Progress Energy - Carolinas, Inc.",Portions of North Carolina and South Carolina,SERC,,,public appeal
+Made Public Appeal,2007,2007-08-09,12:45 p.m.,2007-08-09,9:00 p.m.,"Progress Energy - Carolinas, Inc.",Portions of North Carolina and South Carolina,SERC,,,public appeal
+Made Public Appeal,2007,2007-08-08,1:00 p.m.,2007-08-08,9:00 p.m.,"Progress Energy - Carolinas, Inc.",Portions of North Carolina and South Carolina,SERC,,,public appeal
+Public Appeal,2007,2007-07-03,10:59 a.m.,2007-07-05,6:00 p.m.,California Independent System Operator,CAISO Controlled Grid,WECC,,,public appeal
+Fuel Supply Deficiency,2007,2007-06-01,1:00 p.m.,,Ongoing,"State of California, Department of Water Resources",Restricted Hydroelectric Capability,WECC,-,-,fuel supply emergency
+Unit Tripped,2007,2007-05-21,1:48 p.m.,2007-05-21,4:50 p.m.,Crockett Cogeneraton,"San Franscisco Bay Area, California",WECC,140,-,generator trip
+Unit Tripped,2007,2007-05-14,11:15 a.m.,2007-05-14,1:50 p.m.,Crockett Cogeneration,"San Francisco Bay Area, California",WECC,150,-,generator trip
+Unit Tripped,2007,2007-05-10,9:57 a.m.,2007-05-10,1:47 p.m.,Crockett Cogeneration,"San Francisco Bay Area, California",WECC,150,-,generator trip
+High Winds,2007,2007-04-16,2:04 p.m.,2007-04-16,7:03 p.m.,Dominion - Virginia Power/North Carolina,"North, East and Central Virginia/Parts of Northeast North Carolina",SERC,90,"242,000","severe weather, wind"
+HIgh Winds,2007,2007-04-16,11:00 a.m.,2007-04-16,7:00 p.m.,"Progress Energy - Carolinas, Inc.",North and South Carolina,SERC,-,"33,000","severe weather, wind"
+High Winds,2007,2007-04-12,12:32 a.m.,2007-04-12,9:02 p.m.,Los Angeles Department of Water and Power,"City of Los Angeles, California",WECC,200,"158,977","severe weather, wind"
+Trip of a Unit,2007,2007-04-12,9:09 a.m.,2007-04-12,11:23 a.m.,Crockett Cogeneration,"San Francisco Bay Area, California",WECC,130,-,generator trip
+Winter Storm,2007,2007-02-28,12:45 a.m.,2007-03-02,8:45 p.m.,Pacific Gas and Electric Company,Northern California,WECC,110,"671,189","severe weather, winter storm"
+Severe Weather,2006,2006-12-26,12:01 a.m.,2006-12-31,9:13 a.m.,Pacific Gas and Electric Company,Northern California,WECC,420,"850,068",severe weather
+Unit Tripped,2006,2006-12-10,7:35 p.m.,2006-12-10,10:14 p.m.,Crockett Cogeneration,"San Francisco Bay area, California",WECC,220,,generator trip
+Shed Firm Load,2006,2006-10-02,3:05 p.m.,2006-10-02,8:39 p.m.,Southern California Edison Company,"Newhall, San Frenando, Saugus, and Santa Clarita, California",WECC,308,"130,000",load shedding
+Severe Thunderstorms,2006,2006-10-02,2:00 p.m.,2006-10-03,6:00 p.m.,Exelon Corporation/ComEd,"Chicago Metro, Northeast Illinois",RFC,,"471,932","severe weather, thunderstorm"
+Severe Thunderstorms,2006,2006-09-28,8:08 p.m.,2006-09-28,10:10 p.m.,Dominion - Virginia Power/North Carolina Power,"North, Central and Eastern Virginia and Northern North Carolina",SERC,84,"56,500","severe weather, thunderstorm"
+Tropical Storm Ernesto,2006,2006-09-01,6:41 a.m.,2006-09-03,3:25 p.m.,Dominion - Virginia Power/North Carolina Power,Virginia and North Carolina,SERC,500,"333,000","severe weather, hurricane/tropical storm"
+Tropical Storm Ernesto,2006,2006-09-01,5:30 a.m.,2006-09-01,10:00 a.m.,"Progress Energy Carolinas, Inc.",Eastern North Carolina,SERC,,"61,000","severe weather, hurricane/tropical storm"
+Widespread Heat Wave/CAISO  Implementation of Stage 2 Electrical Emergency Plan,2006,2006-07-24,2:33 p.m.,2006-07-24,5:33 p.m.,California ISO,California,WECC,695,,"severe weather, heat"
+Widespread Heat Wave/CAISO Implementation of Stage 2 Electrical Emergency Plan,2006,2006-07-24,2:33 p.m.,2006-07-24,5:33 p.m.,Southern California Edison Company,California,WECC,414,Interruptible Tarriff 1-6 customers,"severe weather, heat"
+Widespread Heat Wave/Public Appeals Made,2006,2006-07-22,1:09 p.m.,2006-07-27,4:00 p.m.,Pacific Gas and Electric Company,California,WECC,200,"1,271,893","severe weather, heat, public appeal"
+Severe Thunderstorm,2006,2006-06-11,6:00 p.m.,2006-06-11,9:00 p.m.,Duke Energy Carolinas,"Charlotte, North Carolina Metropolitan area",SERC,70,"72,000","severe weather, thunderstorm"
+Lightning Strike,2006,2006-05-19,3:13 p.m.,2006-05-19,10:30 p.m.,Crockett Cogeneration,"San Francisco Bay area, California",WECC,133,-,"severe weather, thunderstorm"
+Severe Winter Storm,2006,2006-02-27,6:25 p.m.,2006-03-01,2:30 p.m.,Pacific Gas and Electric Company,Northern and Central California,WECC,-,"160,000","severe weather, winter storm"
+Severe Storms,2005,2005-12-31,6:00 a.m.,2006-01-05,9:00 a.m.,Pacific Gas and Electric,Northern and Central California,WECC,800,"1,667,316","severe weather, storm"
+Ice Storm,2005,2005-12-15,4:00 a.m.,2005-12-21,5:00 p.m.,Duke Energy Company/Duke Power Control Area,Piedmont North Carolina and South Carolina,SERC,"3,500","683,000","severe weather, winter storm"
+Plant Tripped,2005,2005-11-03,6:47 p.m.,2005-11-03,7:00 p.m.,Crockett Cogeneration,"San Francisco Bay area, California",WECC,136,--,equipment failure
+Hurricane Ophelia,2005,2005-09-14,3:00 p.m.,2005-09-15,3:00 p.m.,Progress Energy - Carolinas,Eastern North Carolina,SERC,215,"60,000","severe weather, hurricane/tropical storm"
+Breaker protection cable accidentally cut,2005,2005-09-12,12:32 p.m.,2005-09-12,1:56 p.m.,Los Angeles Department of Water and Power,"Los Angeles, California",WECC,"2,578","900,000",equipment failure
+Hurricane Katrina disrupted normal gas supplies distribution. Public appeals for conservation were issued.,2005,2005-08-31,4:00 p.m.,2005-09-12,8:00 a.m.,Seminole Electric Cooperative,Member Service Territory is located in the West coast of Florida from Tallahassee to Fort Myers,FRCC,0,0,"severe weather, hurricane/tropical storm, fuel supply emergency, public appeal"
+CAISO initiated interruption of  interruptible and firm load due to declaration of  Transmission Emergency in Southern California,2005,2005-08-25,3:51 p.m.,2005-08-25,8:00 p.m.,Southern California Edison Company,Southern California,WECC,864,"409,000","load shedding, transmission interruption"
+CAISO determined there was  inadequate electric resources to serve load.  Public appeals and a shedding of interruptible and firm load occurred.,2005,2005-08-25,3:50 p.m.,2005-08-25,8:00 p.m.,California ISO,Southern California,WECC,-,-,"load shedding, public appeal"
+Plant Tripped,2005,2005-08-08,12:38 p.m.,2005-08-08,4:00 p.m.,Crockett Cogeneration,"San Francisco Bay area, California",WECC,240,PG&E,equipment failure
+Severe Thunderstorm,2005,2005-07-28,8:30 p.m.,2005-08-01,5:00 p.m.,Duke Energy Company/Duke Power Control Area,Piedmont North and South Carolina,SERC,300,"52,200","severe weather, thunderstorm"
+CA ISO Stage 2 -Initiated interruption of Air Conditioner Cycling Interruptible Load Program,2005,2005-07-22,1:55 p.m.,2005-07-22,6:00 p.m.,Southern California Edison Company,Southern California,WECC,206,"133,900",load shedding
+CA ISO  Stage 2 -Initiated interruption of Air Conditioner Cycling Interruptible Load Program,2005,2005-07-21,2:39 p.m.,2005-07-21,5:30 p.m.,Southern California Edison Company,Southern California,WECC,197,"128,050",load shedding
+Transmission Equipment Failure,2005,2005-06-24,8:37 p.m.,2005-06-24,11:06 p.m.,Commonwealth Edison Company,"Chicago, Illinois",MAIN,350,"51,500","equipment failure, transmission interruption"
+Lightning Strike,2005,2005-04-22,3:51 p.m.,2005-04-22,3:59 p.m.,Crockett Cogeneration,"San Francisco Bay area, California",WECC,126,PG&E,"severe weather, thunderstorm"
+Wind Storms,2005,2005-03-08,11:00 a.m.,2005-03-08,3:00 p.m.,Progress Energy - Carolinas,Eastern and Central North Carolina,SERC,180,"51,600","severe weather, wind"
+Winter Storm,2005,2005-01-07,1:00 p.m.,2005-01-10,8:00 a.m.,Pacific Gas and Electric Company,Northern California,WECC,120,"442,000","severe weather, winter storm"
+Severe Weather/Line Relayed,2004,2004-12-27,7:50 a.m.,2004-12-27,10:50 a.m.,Pacific Gas and Electric  Company,"Salinas, California and surrounding communities",WECC,100,"95,000",severe weather
+High Winds,2004,2004-12-01,10:00 a.m.,2004-12-02,11:59 p.m.,Baltimore Gas & Electric Company,"Central Maryland (Baltimore City, Baltimore County, Anne Arundel County, Hartford County, Montgomery County, Calvert County, Prince George's County, Carroll County and Howard County)",MAAC,270,"122,000","severe weather, wind"
+Major Transmission Distribution System Interruption,2004,2004-10-28,3:27 p.m.,2004-10-28,6:08 p.m.,Pacific Gas and Electric  Company,"San  Jose, California",WECC,103,"59,458",transmission interruption
+Severe Storm with High Wind Gusts,2004,2004-10-18,10:30 p.m.,2004-10-20,9:00 a.m.,Pacific Gas and Electric  Company,Northern California,WECC,140,"407,440","severe weather, wind"
+Hurricane Ivan,2004,2004-09-17,4:30 a.m.,2004-09-18,12:00 p.m.,Progress Energy -Carolinas,Western North Carolina,SERC,400,"112,000","severe weather, hurricane/tropical storm"
+Hurricane Ivan,2004,2004-09-16,9:00 p.m.,2004-09-20,4:00 p.m.,Duke Energy Company/Duke Power Control Area,Western  North and South Carolina,SERC,500,"175,000","severe weather, hurricane/tropical storm"
+Hurricane Ivan,2004,2004-09-16,2:00 a.m.,2004-09-16,10:02 a.m.,Alabama Electric Cooperative,"Baldwin County, Alabama, Escambia County, Florida, Washington County, Alabama",SERC,263,"75,000","severe weather, hurricane/tropical storm"
+Tropical Storm Gaston,2004,2004-08-30,6:58 p.m.,2004-08-31,3:35 p.m.,Dominion - Virginia Power/North Carolina Power,"Central Virginia, South to North Carolina and East to the Virginia Coast",SERC,150,"99,816","severe weather, hurricane/tropical storm"
+Tropical Storm Gaston,2004,2004-08-29,9: 52 a.m.,2004-08-29,6:00 p.m.,South Carolina Electric and Gas Company,Southeastern South Carolina,SERC,450,"125,000","severe weather, hurricane/tropical storm"
+Hurricane Charley,2004,2004-08-14,1:00 p.m.,2004-08-14,11:00 p.m.,Progress Energy - Carolinas,Central and Eastern North Carolina and Northern and Eastern South Carolina,SERC,500,"94,000","severe weather, hurricane/tropical storm"
+Fault at Barre Substation,2004,2004-08-04,12:46 p.m.,2004-08-04,1:50 p.m.,Southern California Edison,"Northwest Orange County, California",WECC,480,"182,000",equipment failure
+Public Appeal,2004,2004-07-24,3:45 p.m.,2004-07-25,9:00 p.m.,Entergy Transmission,Southwest Louisiana in the Acadia Parish vicinity,SPP,-,-,public appeal
+Severe Thunderstorms,2004,2004-07-21,5:30 p.m.,2004-07-22,7:00 p.m.,Commonwealth Edison,"Chicago, Illinois",MAIN,Approx. 200,"200,000","severe weather, thunderstorm"
+Wildfire,2004,2004-07-20,3:44 p.m.,2004-07-20,5:51 p.m.,Puerto Rico Electric Power Authority,"Regions of  San Juan, Caguas, Ponce, Bayamon, Carolina, Arecibo and Mayaguez",PR,200,"61,624",wild fire
+Wildfire/Shed Interruptible Load,2004,2004-07-20,2:26 p.m.,2004-07-21,2:00 a.m.,Southern California Edison,"Soledad Canyon near Acton, California",WECC,214,-,"wild fire, load shedding"
+Heat Storm,2004,2004-05-03,2:30 p.m.,2004-05-03,7:00 p.m.,Southern California Edison,Central and Southern California,WECC,662,Approx. 940,"severe weather, heat"
+Inadequate Resources,2004,2004-03-08,6:22 p.m.,2004-03-08,6:55 p.m.,Southern California Edison,Southern California not including LA,WECC,300,"Approx. 70,000",fuel supply emergency
+Severe Storm,2004,2004-03-07,6:30 p.m.,2004-03-09,8:00 a.m.,Duke Energy Company/Duke Power Control Area,North and South Carolina,SERC,"1,000","206,000","severe weather, storm"
+Winter Storm,2004,2004-02-25,12:01 a.m.,2004-02-26,10:00 a.m.,Pacific Gas and Electric  Company,Northern California,WECC,240,"505,000","severe weather, winter storm"
+Lightning struck Intertie Breaker,2004,2004-02-17,2:25 p.m.,2004-02-17,11:57 p.m.,Crockett Cogeneration,"San Francisco Bay area, California",WECC,220,PG&E,"severe weather, thunderstorm"
+Ice Storm,2004,2004-01-26,10:00 a.m.,2004-01-28,8:00 a.m.,South Carolina Electric and Gas,Central South Carolina,SERC,500-700,"150,000","severe weather, winter storm"
+Ice Storm,2004,2004-01-26,4:00 p.m.,2004-01-29,6:30 a.m.,Progress Energy - Carolinas (Carolina Power and Light),Central and Eastern North Carolina and Northern and Eastern South Carolina,SERC,475,"9,905","severe weather, winter storm"
+Winter Storm,2004,2004-01-01,7:30 a.m.,2004-01-02,4:00 p.m.,Pacific Gas and Electric Company,Northern California,WECC,170,"263,000","severe weather, winter storm"
+Winter Storm,2003,2003-12-28,9:00 p.m.,2004-01-01,11:30 a.m.,Pacific Gas and Electric,Northern California,WECC,160,"241,000","severe weather, winter storm"
+Earthquake,2003,2003-12-22,11:15 a.m.,2003-12-22,11:16 a.m.,Pacific Gas and Electric,Central California Coast,WECC,220,"109,750",earthquake
+Cable Failure,2003,2003-12-20,3:51 p.m.,2003-12-21,11:45 p.m.,Pacific Gas and Electric,"San Francisco, California",WECC,150,"120,000",equipment failure
+Wild Fire _ Transmission Equipment,2003,2003-12-01,6:16 p.m.,2003-12-01,8:11 p.m.,REMVEC,Cape Cod and part of SE Massachusetts,NPCC,630,"300,000",
+High Winds,2003,2003-11-13,6:00 a.m.,2003-11-16,4:00 p.m.,Baltimore Gas and Electric,"Central Maryland (Baltimore City, Baltimore County, Anne Arundel County, Harford County, Montgomery County, Calvert County, Prince George's County, Carroll County and Howard County)",MAAC,375,"110,000","severe weather, wind"
+Wild Fire,2003,2003-10-26,1:44 a.m.,2003-11-18,10:54 a.m.,San Diego Gas and Electric Company,"San Diego County, California",WECC,,"108,000 (Dist. And Trans. Combined)",wild fire
+Hurricane Isabel,2003,2003-09-18,9:00 p.m.,2003-09-21,5:00 p.m.,PPL Electric Utilities,"All PPL including: Williamsport, Harrisburg, Lancaster, Scranton and Allentown areas",MAAC,"1,300","425,000","severe weather, hurricane/tropical storm"
+Hurricane Isabel,2003,2003-09-18,3:32 p.m.,2003-09-19,5:00 p.m.,Duke Energy Company/Duke Power Control Area,Triangle and Tridad (Greensboro _ High Point)  Areas North Carolina - Northern Region,SERC,500-700,"Under 50,000","severe weather, hurricane/tropical storm"
+Hurricane Isabel,2003,2003-09-18,11:45 a.m.,2003-09-18,12:00 a.m.,Carolina Power and Light,Eastern North Carolina,SERC,peak 1655,"peak 320,00 9/18/03 7:00 p.m.","severe weather, hurricane/tropical storm"
+Hurricane Isabel,2003,2003-09-18,12:00 noon,2003-09-26,10:50 p.m.,Baltimore Gas and Electric,"Central Maryland (Baltimore City, Baltimore County, Anne Arundel County, Hartford County, Montgomery County, Calvert County, Prince George's County, Carroll County and Howard County)",MAAC,"2,000","650,000","severe weather, hurricane/tropical storm"
+Hurricane Isabel,2003,2003-09-18,8:20 a.m.,2003-09-29,10:42 p.m.,Dominion-Virginia Power/ North Carolina Power,"North Eastern North Carolina, Eastern Central , and Northern Virginia",SERC,"6,512",1.8 million,"severe weather, hurricane/tropical storm"
+Severe Thunderstorms,2003,2003-08-26,4:00 p.m.,2003-08-29,12:00 p.m.,Baltimore Gas and Electric,"Maryland: Anne Arundel County, Baltimore County, Calvert County, Carroll County, Howard County, Montgomery County,  Prince George's and Baltimore City.",MAAC,625,"93,000 at peak 133,000 cumulative","severe weather, thunderstorm"
+Unknown *,2003,2003-08-14,4:10 p.m.,2003-08-14,11:48 p.m.,Niagara Mohawk,"New York- Buffalo to Albany; Ontario, Canada to Pennsylvania",NPCC,,"840,137",unknown
+Unit Tripped,2003,2003-07-02,1:54 p.m.,2003-07-02,3:59 p.m.,Pacific Gas and Electric Company,Northern California,WECC,200,1,generator trip
+Severe Thunderstorms,2003,2003-05-02,5:00 p.m.,2003-05-04,12:00 p.m.,Duke Energy Company/Duke Power Control Area,"Piedmont, North and South Carolina",SERC,"1,500","139,000","severe weather, thunderstorm"
+Winter Ice Storm,2003,2003-02-27,11:32 a.m.,2003-03-01,8:00 a.m.,Duke Energy Corporation,"Piedmont, North Carolina",SERC,"1,000","over 340,000","severe weather, winter storm"
+Winter Storm,2002,2002-12-19,6:00 AM,2002-12-21,5:00 AM,Pacific Gas & Electric,Northern and Central California,WECC,56,"385,000","severe weather, winter storm"
+Winter Storm,2002,2002-12-14,11:00 AM,2002-12-19,4:00 AM,Pacific Gas & Electric,Northern and Central California,WECC,180,1.5 million,"severe weather, winter storm"
+Winter Storm,2002,2002-11-06,10:00 PM,2002-11-10,12:00 PM,Pacific Gas & Electric Co.,Northern and Central California,WECC,270,"939,000","severe weather, winter storm"
+Interruption of Firm Power,2002,2002-08-25,3:41 AM,2002-08-25,9:17 AM,Pacific Gas & Elec.,California,WECC,120,1 PG&E,load shedding
+Interruption of Firm Power (Unit Tripped),2002,2002-07-19,11:51 AM,2002-07-19,4:30 AM,Pacific Gas & Electric,California,WECC,240,1 PG&E,generator trip
+Interruption of Firm Power,2002,2002-07-09,12:27 PM,2002-07-09,7:54 AM,Pacific Gas & Electric,California,WECC,240,1 PG&E,load shedding
+Interruption of Firm Load,2002,2002-02-27,10:48 AM,2002-02-27,11:35 AM,San Diego Gas & Electric,California,WECC,300,"255,000",load shedding
+Interruption of Firm Power (Public Appeal),2001,2001-05-08,3:10 p.m.,2001-05-08,5:30:00 PM,CA Independent System Operator,California,WECC,400,Undetermined,"load shedding, public appeal"
+Interruption of Power,2001,2001-05-08,3:12 p.m.,2001-05-08,5:00:00 PM,Southern California Edison,California,WECC,"225, 159","70,848; 56718",unknown
+Interruption of Firm Power (Public Appeal),2001,2001-05-07,4:45 p.m.,2001-05-07,6:00:00 PM,CA Independent System Operator,California,WECC,300,Undetermined,"load shedding, public appeal"
+Interruption of Firm Power,2001,2001-03-20,9:17 a.m.,2001-03-20,2:33:00 PM,CA Independent System Operator,Southern California Area,WECC,300-500,Undetermined,load shedding
+Interruption of Firm Power,2001,2001-03-20,11:50 a.m.,2001-03-20,2:11:00 PM,Southern California Edison,Southern California Area,WECC,Various,"25,000 per hour",load shedding
+Interruption of Firm Power & Public Appeal,2001,2001-03-19,11:46 a.m.,2001-03-19,9:00:00 PM,CA Independent System Operator,Southern California Area,WECC,"400-1,000",Undetermined,"load shedding, public appeal"
+Interruption of Firm Power,2001,2001-03-19,11:50 a.m.,2001-03-19,,Southern California Edison,Southern California Area,WECC,Various,"430,984",load shedding
+Firm load interruption,2001,2001-01-20,8:15 a.m.,2001-01-21,2:50:00 PM,CA Independent System Operator,California,WECC,300,,load shedding
+Firm load interruption,2001,2001-01-17,1:45 a.m.,2001-01-18,12:00:00 PM,CA Independent System Operator,California,WECC,500,,load shedding
+Severe Weather,2000,2000-08-18,6:30 p.m.,2000-08-20,12:00 p.m.,Duke Power,North Carolina,SERC,500,"130,000",severe weather
+Line Outages/Switch Fire,2000,2000-06-28,5:52 p.m.,2000-06-28,7:14:00 PM,Virginia Power/North Carolina Power,Virginia & North Carolina,SERC,175,"30,500","wild fire, transmission interruption"
+Generating Resources Loss,2000,2000-06-14,1:13 p.m.,,,Calif. Indep. System Operator,California,WECC,130,"32,000",fuel supply emergency
+Severe Weather,2000,2000-05-25,10:00 a.m.,2000-06-02,6:00:00 AM,Duke Power,North Carolina,SERC,450-500,"Approx. 100,000",severe weather
+Thunder/Lightning,2000,2000-05-21,,2000-05-22,,Duke Power,North Carolina,SERC,150-200,"50,000","severe weather, thunderstorm"
+Ice Storm,2000,2000-01-29,10:00 p.m.,2000-02-03,12:00:00 PM,Duke Power Co.,South Carolina,SERC,300,"81,000","severe weather, winter storm"
+Ice Storm,2000,2000-01-24,7:00 p.m.,,,Carolina Power & Light,North Carolina & Northern South Carolina,SERC,960,"173,000","severe weather, winter storm"
+Ice Storm,2000,2000-01-23,8:00 a.m.,2000-01-28,12:00:00 PM,Duke Power Co.,South Carolina,SERC,450,"133,000","severe weather, winter storm"

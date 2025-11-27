@@ -15,7 +15,7 @@ This project analyzes the relationship between wildfires and power outages in Ca
 
 ### Datasets
 
-#### ✅ Primary Dataset
+#### ✅ Power Outage Datasets
 
 **Purdue University Power Outage Dataset (2000-2016)**
 
@@ -23,41 +23,54 @@ This project analyzes the relationship between wildfires and power outages in Ca
 - Kaggle: https://www.kaggle.com/datasets/autunno/15-years-of-power-outages
 - Coverage: Major U.S. power outages (≥50,000 customers or ≥300 MW loss)
 - Features: Duration, customers affected, location, cause, weather, economic data
-- Downloaded: `PowerOutages.xlsx` (645 KB)
+- Downloaded: `purdue_power_outages_2000_2016.xlsx` (645 KB)
 
-#### ✅ Supplementary Datasets
+**DOE Grid Disruption Events (2000-2014)**
 
-**California Wildfire Datasets**
+- Source: Department of Energy
+- Coverage: Grid disruption events with geographic areas and NERC regions
+- Downloaded: `doe_grid_disruptions_2000_2014.csv` (262 KB)
 
-1. **California Wildfires (2000-2022)**: https://www.kaggle.com/datasets/avkashchauhan/california-wildfire-dataset-from-2000-2021
-   - Downloaded: `california_wildfire_2000_2022.csv` (54 MB, 1.1M records)
+#### ✅ Wildfire Datasets
 
-2. **California Fire Incidents (2013-2020)**: https://www.kaggle.com/datasets/ananthu017/california-wildfire-incidents-20132020
-   - Downloaded: `california_wildfire_incidents_2013_2020.csv` (948 KB)
+**CAL FIRE Incidents (2013-2020)**
 
-3. **1.88M US Wildfires**: https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires
-   - Downloaded: `us_wildfires_1.88m.sqlite` (759 MB)
+- Source: https://www.kaggle.com/datasets/ananthu017/california-wildfire-incidents-20132020
+- Features: Acres burned, location, dates, structures affected
+- Downloaded: `calfire_incidents_2013_2020.csv` (948 KB)
 
-**Additional Wildfire Data**
+**1.88M US Wildfires (FPA FOD)**
 
-- `ca_daily_fire_2000_2021-v2.csv` - Enhanced with FRP (fire radiative power) data
-- USA-wide datasets for broader context
+- Source: https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires
+- Coverage: 1.88 million US wildfires (1992-2015)
+- Features: Detailed fire records with county FIPS codes, cause, size class
+- Downloaded: `us_wildfires_1.88m_fpa_fod.sqlite` (759 MB)
+
+**NASA FIRMS Satellite Fire Detections**
+
+- Source: NASA Fire Information for Resource Management System
+- Coverage: Satellite-detected fire hotspots (2000-2022)
+- Downloaded in `nasa_firms_wildfire_data/`:
+  - `california_fires_2000_2021_basic.csv` - CA fires (lat, lon, date, confidence)
+  - `california_fires_2000_2021_with_frp.csv` - CA fires with Fire Radiative Power
+  - `california_fires_2000_2022_extended.csv` - CA fires through March 2022
+  - `usa_fires_2000_2022_raw.csv` - Full USA fire detections
 
 ### Project Structure
 
 ```
-DataMiningProject/
+wildfire-power-analysis/
 ├── data/
 │   ├── raw/                                         # Original downloaded datasets
-│   │   ├── PowerOutages.csv                        # Purdue dataset (CSV format)
-│   │   ├── PowerOutages.xlsx                       # Purdue dataset (Excel format)
-│   │   ├── california_wildfire_2000_2022.csv       # Primary CA wildfire data (2000-2022)
-│   │   ├── california_wildfire_incidents_2013_2020.csv  # CA fire incidents
-│   │   ├── us_wildfires_1.88m.sqlite               # 1.88M US wildfires database
-│   │   └── wildfire_supplementary/                 # Additional wildfire datasets
-│   │       ├── ca_daily_fire_2000_2021-v2.csv     # Enhanced CA data (with FRP)
-│   │       ├── ca_daily_fire_2000_2021.csv        # CA fires 2000-2021
-│   │       └── usa_daily_fire_2000_march25-2022-raw.csv  # Full USA dataset
+│   │   ├── purdue_power_outages_2000_2016.xlsx     # Purdue power outage dataset
+│   │   ├── doe_grid_disruptions_2000_2014.csv     # DOE grid disruption events
+│   │   ├── calfire_incidents_2013_2020.csv        # CAL FIRE incidents
+│   │   ├── us_wildfires_1.88m_fpa_fod.sqlite      # 1.88M US wildfires database
+│   │   └── nasa_firms_wildfire_data/              # NASA FIRMS satellite data
+│   │       ├── california_fires_2000_2021_basic.csv
+│   │       ├── california_fires_2000_2021_with_frp.csv
+│   │       ├── california_fires_2000_2022_extended.csv
+│   │       └── usa_fires_2000_2022_raw.csv
 │   └── processed/                                   # Cleaned and merged datasets
 ├── notebooks/                                       # Jupyter notebooks for analysis
 ├── scripts/                                         # Python scripts for data processing
